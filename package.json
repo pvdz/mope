@@ -1,0 +1,26 @@
+{
+  "name": "mope",
+  "version": "0.0.1",
+  "author": "Peter van der Zee",
+  "description": "A zero config type checker experiment for a subset of JS",
+  "main": "src/index.mjs",
+  "module": "src/index.mjs",
+  "devDependencies": {
+    "prettier": "1.18.2"
+  },
+  "dependencies": {
+    "tenko": "1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvdz/mope.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "parser",
+    "parsing",
+    "static analysis",
+    "typing"
+  ]
+}
